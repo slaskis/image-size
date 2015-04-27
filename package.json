@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git@github.com:netroy/image-size.git"
   },
+  "browser": "lib/browser.js",
   "keywords": [
     "image",
     "size",
